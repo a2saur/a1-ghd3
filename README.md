@@ -1,7 +1,7 @@
 # Assignment 1 - Hello World: GitHub and d3  
 
 ## Assignment Link:
-https://a2saur.github.io/a1-ghd3/
+https://a2saur.github.io/a1-ghd3/index.html
 
 ## Description:
 This is an interactive visual stopwatch. There is a simple analog stopwatch visual made of a circle, lines, and polygons, and a digital stopwatch time made of a rectangle and text. The user can press the start button (a polygon) on the right to start/stop the stopwatch and the reset button (another polygon) on the left to reset the timer. 
